@@ -1,9 +1,12 @@
-# helloworld
+# juanjuan_copy
 
-AstrBot 插件模板
+功能来源于卷卷
 
-A template plugin for AstrBot plugin feature
 
-# 支持
 
-[帮助文档](https://astrbot.app)
+## 目前的功能（仅管理员可操作）：
+
+违禁词（实现了添加和删除违禁词操作，并且在功能开启的状态下可以让机器人私聊发送目前记录的违禁词。其余方面未实现）
+
+
+
